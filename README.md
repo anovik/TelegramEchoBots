@@ -17,3 +17,5 @@ Then you get Telegram token, put it to your OS environmental variable/settings o
 
 
 # .NET (C#) Echo Bot
+
+Install Telegram.Bot .NET Client for Telegram API. Compile and run console application in .NET folder. It uses Telegram token from OS environmental variable as well.
